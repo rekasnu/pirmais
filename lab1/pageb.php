@@ -1,0 +1,9 @@
+
+<?php
+
+  $un = $_POST['username'];
+
+
+  echo  $un ;
+?>
+
